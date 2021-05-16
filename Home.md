@@ -4,14 +4,14 @@
 
 ## Project
 
-### [Roadmap](Roadmap.md)
+### [Roadmap](Roadmap)
 
-#### [TypeScript](TypeScript.md)
+#### [TypeScript](TypeScript)
 
-### [Ideas](Ideas.md)
+### [Ideas](Ideas)
 
-### [Issues](Issues.md)
+### [Issues](Issues)
 
-### [Management](Management.md)
+### [Management](Management)
 
-### [Initiatives](Initiatives.md)
+### [Initiatives](Initiatives)
