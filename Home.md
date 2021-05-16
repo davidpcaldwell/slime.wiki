@@ -1,5 +1,7 @@
 # SLIME
 
+## [[`jsh`, the Java/JavaScript shell|jsh.md]]
+
 ## [`jsh`, the Java/JavaScript shell](wiki/jsh.md)
 
 ## Project
