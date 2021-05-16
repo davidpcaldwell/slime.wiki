@@ -1,8 +1,6 @@
 # SLIME
 
-## [[`jsh`, the Java/JavaScript shell|jsh.md]]
-
-## [`jsh`, the Java/JavaScript shell](wiki/jsh.md)
+## [`jsh`, the Java/JavaScript shell](https://github.com/davidpcaldwell/slime/wiki/jsh.md)
 
 ## Project
 
