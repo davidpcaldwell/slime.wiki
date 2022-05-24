@@ -2,9 +2,11 @@
 
 # SLIME
 
-## [`jsh`, the Java/JavaScript shell](jsh)
-
 ## Project
+
+### Upcoming releases
+
+* [0.0.5.2](https://github.com/davidpcaldwell/slime/projects/18)
 
 ### [Roadmap](Roadmap)
 
@@ -17,3 +19,8 @@
 ### [Management](Management)
 
 ### [Initiatives](Initiatives)
+
+## Platforms
+
+### [`jsh`, the Java/JavaScript shell](jsh)
+
