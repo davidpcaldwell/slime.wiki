@@ -8,19 +8,19 @@
 
 * [0.0.5.2](https://github.com/davidpcaldwell/slime/projects/18)
 
-### [Roadmap](Roadmap)
+### [Roadmap](Roadmap.md)
 
-#### [TypeScript](TypeScript)
+#### [TypeScript](TypeScript.md)
 
-### [Ideas](Ideas)
+### [Ideas](Ideas.md)
 
-### [Issues](Issues)
+### [Issues](Issues.md)
 
-### [Management](Management)
+### [Management](Management.md)
 
-### [Initiatives](Initiatives)
+### [Initiatives](Initiatives.md)
 
 ## Platforms
 
-### [`jsh`, the Java/JavaScript shell](jsh)
+### [`jsh`, the Java/JavaScript shell](jsh.md)
 
