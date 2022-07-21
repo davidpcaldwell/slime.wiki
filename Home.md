@@ -11,17 +11,16 @@
 
 ### [Roadmap](Roadmap)
 
-#### [TypeScript](TypeScript)
+#### [TypeScript](TypeScript) - *needs review*
 
-### [Ideas](Ideas)
+### [Ideas](Ideas) - *needs review*
 
-### [Issues](Issues)
+### [Issues](Issues) - *needs review*
 
-### [Management](Management)
+### [Management](Management) - *needs review*
 
-### [Initiatives](Initiatives)
+### [Initiatives](Initiatives) - *needs review*
 
 ## Platforms
 
-### [`jsh`, the Java/JavaScript shell](jsh)
-
+### [`jsh`, the Java/JavaScript shell](jsh) - *needs review*
