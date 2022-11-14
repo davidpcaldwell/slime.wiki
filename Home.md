@@ -7,7 +7,7 @@
 
 ### Upcoming releases
 
-* [0.0.5.2](https://github.com/davidpcaldwell/slime/projects/18)
+* [0.0.5.3](https://github.com/users/davidpcaldwell/projects/17/views/1)
 
 ### [Roadmap](Roadmap)
 
