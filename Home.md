@@ -9,6 +9,8 @@
 **Note: this Wiki was imported from an earlier version and may contain out-of-date information; see the
 [README](https://github.com/davidpcaldwell/slime/blob/master/README.md) for the best current information. The below pages may still have relevant information but are not the best starting point.**
 
+___
+
 #### [TypeScript](TypeScript) - *needs review*
 
 ### [Ideas](Ideas) - *needs review*
