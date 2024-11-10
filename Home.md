@@ -2,7 +2,7 @@
 
 ## Project
 
-### Next release: [0.0.5.3](https://github.com/users/davidpcaldwell/projects/17/views/1)
+### Next release: [0.0.5.3](https://github.com/users/davidpcaldwell/projects/25/views/1)
 
 ### [Roadmap](Roadmap)
 
