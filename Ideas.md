@@ -1,5 +1,7 @@
 # Things to think about that are insufficiently specific to be treated as issues.
 
+* FP consistency; name of creation and operation functions; `from`/`operations`? Capital/lowercase?
+
 * Tests for backward compatibility when running a source distribution. We can check out old code and run the tests and make sure they still pass.
 
 * Loader improvements
