@@ -2,6 +2,8 @@
 
 * FP consistency; name of creation and operation functions; `from`/`operations`? Capital/lowercase?
 
+* wo error handling - do we need Either type? Can we treat event handlers that receive detail of type Error differently? Or with some kind of naming convention?
+
 * Tests for backward compatibility when running a source distribution. We can check out old code and run the tests and make sure they still pass.
 
 * Loader improvements
