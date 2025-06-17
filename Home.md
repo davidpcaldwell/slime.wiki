@@ -35,3 +35,5 @@ on the JVM, the browser, and Node.js. The link above summarizes the effort to ha
 [GraalJS](https://www.graalvm.org/latest/reference-manual/js/)
 [GraalJS releases](https://github.com/oracle/graaljs/releases)
 [GraalVM downloads](https://www.oracle.com/java/technologies/downloads/)
+
+[Rhino shell](https://rhino.github.io/tools/shell/)
