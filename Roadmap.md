@@ -6,7 +6,7 @@
 
 ## Engine Support
 
-Nashorn has been deprecated. [GraalVM] is proposed as the alternative for writing hybrid Java/JavaScript (along with other
+Nashorn has been deprecated. [GraalJS](https://www.graalvm.org/latest/reference-manual/js/) is proposed as the alternative for writing hybrid Java/JavaScript (along with other
 languages) applications for the JVM. GraalVM's multithreading capabilities are substantially different from Rhino's, so in order to
 fully support `jsh` on GraalVM, some work is required. See the [issue list](https://github.com/davidpcaldwell/slime/issues?q=is%3Aissue%20state%3Aopen%20graal%20label%3Agraal) for
 details.
