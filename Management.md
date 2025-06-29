@@ -1,5 +1,9 @@
 # Project Management
 
+## Database support
+
+Check this [ranking](https://db-engines.com/en/ranking) for monitoring popularity.
+
 ## Dependencies
 
 ### Updating the Java version
